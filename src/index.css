@@ -28,6 +28,7 @@ body {
   color: var(--text-color);
   font-size: 4rem;
   font-family: 'Gabriele', monospace;
+  overflow: hidden;
 }
 
 body::before {
