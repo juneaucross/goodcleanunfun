@@ -20,6 +20,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100dvh;
   background: url('judge.jpg') center center no-repeat;
   background-size: cover;
   background-color: var(--bg-color);
@@ -28,7 +29,6 @@ body {
   color: var(--text-color);
   font-size: 4rem;
   font-family: 'Gabriele', monospace;
-  overflow: hidden;
 }
 
 body::before {
