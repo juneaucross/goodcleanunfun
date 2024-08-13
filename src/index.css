@@ -21,6 +21,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100lvh;
+  overflow: hidden;
   background: url('judge.jpg') center center no-repeat;
   background-size: cover;
   background-color: var(--bg-color);
