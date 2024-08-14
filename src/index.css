@@ -5,8 +5,8 @@
 }
 
 @font-face {
-  font-family: 'Gabriele';
-  src: url('GabrieleBlackRibbonFG.woff2') format('woff2');
+  font-family: 'GabrieleGCU';
+  src: url('GabrieleBlackRibbonGCUcustom.woff2') format('woff2');
   font-display: auto;
 }
 
@@ -30,7 +30,7 @@ body {
   padding: 0;
   color: var(--text-color);
   font-size: 4rem;
-  font-family: 'Gabriele', 'American Typewriter', 'Lucida Sans Typewriter', monospace;
+  font-family: 'GabrieleGCU', 'American Typewriter', 'Lucida Sans Typewriter', monospace;
 }
 
 body::before {
